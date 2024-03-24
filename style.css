@@ -570,6 +570,7 @@ footer .text span a:hover{
   }
 }
 
+/* MOBILE-RESPONSIVE SECTION -> MAX-WIDTH -> 750PX  */
 @media (max-width: 750px) {
   nav .navbar{
     width: 90%;
@@ -648,6 +649,7 @@ footer .text span a:hover{
 }
 }
 
+/* THE MOBILE RESPONSIVE SECTION  -> MAX-WIDTH -> 500PX*/
 @media (max-width: 500px){
   .home .text-two{
     font-size: 55px;
